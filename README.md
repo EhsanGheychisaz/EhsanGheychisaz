@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-end
 - 📫 How to reach me: ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm crazy about Linux
+- ⚡ Fun fact: I'm crazy about Linux,Docker
 -->
