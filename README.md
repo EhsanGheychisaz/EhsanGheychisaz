@@ -1,7 +1,7 @@
 ### XoXo👋
 
 
-Here are some ideas to get you started:
+Im Ehsan ,a boring student in CS;
 
 - 🔭 I’m currently working on Javascript , sass , haml
 - 🌱 I’m currently learning ReactJs
