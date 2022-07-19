@@ -6,7 +6,7 @@ Im Ehsan ,a boring student in CS;
 - 🔭 I’m currently working on Javascript , sass , haml
 - 🌱 I’m currently learning ReactJs
 - 💬 Ask me about Front-end
-- 📫 How to reach me: ...
+- 📫 How to reach me: ehsan.ghechisaz82@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm crazy about Linux
 
