@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">a Front-end dev and boring computer-science student</h3>
 
-- 🔭 I’m currently working on **Front-end**
+- 🔭 I’m currently working on **Front-end/ReactJS**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 🤝 I’m looking for help with **Front-end**
 
