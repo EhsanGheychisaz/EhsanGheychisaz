@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">a Front-end dev and boring computer-science student</h3>
 
-- 🔭 I’m currently working on **MERN Stack developer**
+- 🔭 I’m currently working as **MERN Stack developer(M=Mongodb , E=express , R=Reactjs  , N= Nodejs**
 
 - 🌱 I’m currently learning **Docker**
 
