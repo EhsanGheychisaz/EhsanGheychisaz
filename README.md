@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
 <h3 align="center">a Front-end dev and boring computer-science student</h3>
 
-- 🔭 I’m currently working on **Front-end/ReactJS**
+- 🔭 I’m currently working on **MERN Stack developer**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Docker**
 
-- 🤝 I’m looking for help with **Front-end**
+- 🤝 I’m looking for help with **Nestjs**
 
-- 💬 Ask me about **Javascript**
+- 💬 Ask me about **Javascript , python**
 
 - 📫 How to reach me **ehsan.ghechisaz82@gmail.com**
 
