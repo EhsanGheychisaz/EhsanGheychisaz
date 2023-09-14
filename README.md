@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ehsan.ghechisaz82@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/](https://www.linkedin.com/)
+- 📄 Know about my experiences [my LinkedIn page](https://www.linkedin.com/in/ehsan-gheychisaz/)
 
 - ⚡ Fun fact **I'm a Linux geek**
 
