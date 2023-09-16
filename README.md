@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ehsan Gheychisaz</h1>
-<h3 align="center">A developer from home</h3>
+<h3 align="center">A boored from home</h3>
 
 - 🔭 I’m currently working on [ira-lex](https://ira-lex.com/)
 
