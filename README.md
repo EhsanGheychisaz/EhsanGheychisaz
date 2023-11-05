@@ -15,8 +15,6 @@
 
 - 👯 I’m looking to collaborate on **web developing projects**
 
-- 🤝 I’m looking for help with **DevOps**
-
 - 💬 Ask me about **django,react and docker**
 
 - 📫 How to reach me **ehsan.ghechisaz82@gmail.com**
