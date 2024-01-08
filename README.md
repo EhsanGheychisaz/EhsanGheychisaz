@@ -9,13 +9,13 @@
 <h1 align="center">Hi 👋, I'm Ehsan Gheychisaz</h1>
 <h3 align="center">A boored from home</h3>
 
-- 🔭 I’m currently working on [ira-lex](https://ira-lex.com/)
+- 🔭 I’m currently working on [ira-lex](https://ira-lex.com/) and [Kamva](https://kamva.academy/)
 
-- 🌱 I’m currently learning **OWASP**
+- 🌱 I’m currently learning **OWASP and k8n**
 
 - 👯 I’m looking to collaborate on **web developing projects**
 
-- 💬 Ask me about **django,react and docker**
+- 💬 Ask me about **django, react,node js and docker**
 
 - 📫 How to reach me **ehsan.ghechisaz82@gmail.com**
 
