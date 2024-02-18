@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Kamva](https://kamva.academy/)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **web developing projects**
 
