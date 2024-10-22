@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ehsan Gheychisaz</h1>
 <h3 align="center">A boored from home</h3>
 
-- 🔭 I’m currently working on [Kamva](https://kamva.academy/)
+- 🔭 I’m currently working on Ergo-platform
 
 - 🌱 I’m currently learning **Golang**
 
