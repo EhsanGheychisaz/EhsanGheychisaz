@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **web developing projects**
 
-- 💬 Ask me about **Django, python and docker**
+- 💬 Ask me about **Django, python and blockchain**
 
 - 📫 How to reach me **ehsan.ghechisaz82@gmail.com**
 
